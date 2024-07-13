@@ -85,7 +85,7 @@ export default function Login() {
                         <SubmitButton />
                     </form>
                     <p className="mt-4 text-center">
-                        Don't have an account? <a href="/signup" className="text-blue-500 hover:underline">Sign Up</a>
+                        Don&apos;t have an account? <a href="/signup" className="text-blue-500 hover:underline">Sign Up</a>
                     </p>
                 </div>
             </div>
